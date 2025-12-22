@@ -5,7 +5,7 @@
 - create `.env` and set Environment Variables
 - create `lib/auth.ts`
 - setup `postgres` database with `neon.tech`
-- install prisma `npm install prisma --save-dev`
+- install prisma `pnpm install prisma --save-dev`
 - initialize prisma `npx prisma init`
 - create **Post** Model
 - push database changes `npx prisma db push`
